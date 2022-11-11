@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkbreeze_ui"]=self["webpackChunkbreeze_ui"]||[]).push([[335],{4335:function(e,n,u){u.r(n),u.d(n,{default:function(){return f}});var r=u(3396);const t={class:"about"},a=(0,r._)("h1",null,"This is an about page",-1),s=[a];function i(e,n){return(0,r.wg)(),(0,r.iD)("div",t,s)}var c=u(89);const o={},b=(0,c.Z)(o,[["render",i]]);var f=b}}]);
+//# sourceMappingURL=335.033e350c.js.map
